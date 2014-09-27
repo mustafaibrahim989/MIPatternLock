@@ -1,7 +1,7 @@
 MIPatternLock
 ============
 
-iOS style pattern lock
+iOS style pattern lock, inspired by http://blog.grio.com/2011/11/android-pattern-lock-on-iphone.html
 
 Installation
 ============
